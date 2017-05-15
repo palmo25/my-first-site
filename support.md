@@ -5,4 +5,4 @@ permalink: /support/
 ---
 
 
-##  Support Us
+##  Support Us with a donation
